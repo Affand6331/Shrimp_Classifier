@@ -1,5 +1,21 @@
 # UdangClassifier - Sistem Klasifikasi Penyakit Udang
 
+<table align="center">
+  <tr>
+    <!-- Kolom kiri: gambar besar -->
+    <td>
+      <img src="https://github.com/Affand6331/Shrimp_Classifier/blob/main/asset/image1.png" width="500">
+    </td>
+    <!-- Kolom kanan: 3 gambar vertikal -->
+    <td>
+      <img src="https://github.com/Affand6331/Shrimp_Classifier/blob/main/asset/image2.png" width="250"><br>
+      <img src="https://github.com/Affand6331/Shrimp_Classifier/blob/main/asset/image3.png" width="250"><br>
+      <img src="https://github.com/Affand6331/Shrimp_Classifier/blob/main/asset/image4.png" width="250">
+    </td>
+  </tr>
+</table>
+
+
 Sistem klasifikasi penyakit udang berbasis deep learning menggunakan arsitektur Swin Transformer dengan metode ensemble. Sistem ini dapat mengklasifikasikan gambar udang ke dalam 3 kategori:
 
 - **Healthy** (Udang sehat)
