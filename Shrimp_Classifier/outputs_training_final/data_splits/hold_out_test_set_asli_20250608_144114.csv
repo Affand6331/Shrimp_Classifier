@@ -1,0 +1,241 @@
+image_path,label,source,label_int
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0114.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0006.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-102-_jpg.rf.721ec75bde6d19a86d5ec4cab981dc65.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0288.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0045.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0080.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0290.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (28).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0288.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0292.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (123).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240424-WA0143.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0388.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (36).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (89).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0213.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0250.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\2. BG\IMG-20240427-WA0360.jpg,BG,Dataset_B,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (181).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (243).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0038.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (157).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-14-_jpg.rf.01d1c5403bada2ed478bbd6b6beb3091.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0173.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0096.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0456.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-87-_jpg.rf.68bf0443a00db239e648082628344bfc.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-38-_jpg.rf.29fa7e8adbd1d52485dadf1452c924d9.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (43).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-109-_jpg.rf.ed2154a84980144489d5be5e27dec4b6.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (146).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0235.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0106.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\2. BG\IMG-20240414-WA0189.jpg,BG,Dataset_B,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-74-_jpg.rf.db20c6568dc5097a2d6a9e7155a6a719.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-121-_jpg.rf.99eda5a80701075772214c48245b444c.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (178).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0475.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-140-_jpg.rf.ab552e51753a0fe3d0fc91e6617ab0fc.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0208.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (111).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-37-_jpg.rf.40d9dcadfd26e17ca22e9ce75924ee9d.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0176.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0235.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0007.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0097.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0463.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0551.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240424-WA0204.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (45).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0089.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0111.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (27).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (189).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (7).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-55-_jpg.rf.3dd8a4c5e38f82235b61199472117ba1.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0070.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (10).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0090.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (195).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0241.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-129-_jpg.rf.292afa0478644ef8af032a3ce8c7e3df.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0166.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240424-WA0082.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (37).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0149.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-89-_jpg.rf.e02bc6a78f798a4f75b0f046c69f949e.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0238.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0339.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (48).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-17-_jpg.rf.745650e6a8e077966be03b5d2225d1ea.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-73-_jpg.rf.3be59bde9b85d1c6be51429915112bcf.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (155).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0440.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0293.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (271).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0283.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0202.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240424-WA0188.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0099.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0064.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-139-_jpg.rf.56ef083f9b5ec8fa1b1fcdb5cf1d9fb7.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (208).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-144-_jpg.rf.45a9246cc07b99744508a65adeda2aca.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0328.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (21).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0140.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0487.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0399.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0007.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0046.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (268).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0150.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0418.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0013.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0288.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0418.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (78).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240426-WA0135.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (135).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240426-WA0210.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0000.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (292).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240426-WA0292.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0215.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (13).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0018.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (280).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0191.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-28-_jpg.rf.da65826f81486c8cc7d50de8d0a610c1.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0294.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-153-_jpg.rf.3553480e94c9e3746a71be83c8ba22af.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (23).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0023.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0491.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0465.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0293.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240414-WA0015.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-79-_jpg.rf.a1d8c1913f2c7d766f4a21306958636c.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0315.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0091.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-89-_jpg.rf.77f8a870af62829d550b1d1271f60968.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0233.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0453.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0100.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0029.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0604.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (214).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0067.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (249).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0112.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0529.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0042.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0409.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0022.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0403.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (50).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-30-_jpg.rf.539537709fe4a9a59fae8cfd61b36f8d.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-24-_jpg.rf.a67f25f554d657ca8c37fc589bd6efa2.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0495.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0012.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0160.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0524.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0006.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (128).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0326.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (75).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (244).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0459.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (284).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0513.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (118).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (171).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0489.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (110).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0020.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0479.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0016.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0451.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-35-_jpg.rf.cc81fd9617521343b1a9e888f9690ed6.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240424-WA0111.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-63-_jpg.rf.46f583a09e9fe48f85fa5b656fe0d72c.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (191).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0275.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0252.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (46).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0475.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0027.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0480.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240426-WA0206.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-35-_jpg.rf.ee448a678a15d85a0fb3e14ad2f4c578.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0259.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0402.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0519.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (216).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0024.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0173.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (56).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0482.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (24).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (117).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (151).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240709-WA0050.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (294).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\2. BG\IMG-20240421-WA0224.jpg,BG,Dataset_B,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (55).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0314.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (17).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-80-_jpg.rf.4ebd471803604d7dcfc5a10c4626f853.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0132.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240426-WA0046.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-149-_jpg.rf.472e40cf878c055823aa280d86f56cd3.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (White Background) (49).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-63-_jpg.rf.8f0c4f3c408731349c701585332fa990.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0116.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0207.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-1-_jpg.rf.2f52b2363a759052ffa95b12a960f3c2.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (163).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0014.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0219.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-118-_jpg.rf.537f251838ae8ca62ba895edd2cba0f7.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (71).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-64-_jpg.rf.b867db12f5577bee45987d5080c6ad30.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-117-_jpg.rf.71b4bde6ab0135ce1a32d6b16c192781.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (194).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-108-_jpg.rf.627e5bb802e357c491b3f58cf84499a5.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (72).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0207.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0228.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0466.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-87-_jpg.rf.49771bd1aa383807118d36f24288b4c0.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0297.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240425-WA0172.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-1-_jpg.rf.9a94c27980962422f8017f8ed60f3e49.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0444.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (22).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240624-WA0057.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0393.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\2. BG\IMG-20240421-WA0223.jpg,BG,Dataset_B,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240710-WA0141.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0141.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (141).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-2-_jpg.rf.516baed77798a35df1c0db9f72aae43c.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-99-_jpg.rf.c6a1256ccc7a3a96deabc27b297291e6.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240423-WA0369.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0272.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240421-WA0136.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0017.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0378.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\3. WSSV\IMG-20240427-WA0468.jpg,WSSV,Dataset_B,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-13-_jpg.rf.65e3037bb484e87b831296ea2e2e7595.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240707-WA0193.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-19-_jpg.rf.212c859cb79894a30062e7f2ae6d10b9.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (223).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\2. BG\BG-94-_jpg.rf.f38f65ed74e43f366b1c11af77ee0c92.jpg,BG,Dataset_A,1
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-111-_jpg.rf.fc3a8677e734c695bda5a1e3f71fac80.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\1. Healthy\Healthy (Blue Background) (95).jpg,Healthy,Dataset_A,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_A\3. WSSV\WSSV-39-_jpg.rf.bae4fa7fb32eff1a180d383cbc2a2ecc.jpg,WSSV,Dataset_A,2
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0216.jpg,Healthy,Dataset_B,0
+D:\Skripsi\Shrimp_Classifier\Shrimp_Classifier\data\raw\Dataset_B\1. Healthy\IMG-20240625-WA0349.jpg,Healthy,Dataset_B,0
