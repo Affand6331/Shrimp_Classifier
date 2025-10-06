@@ -1,0 +1,48 @@
+/* 
+ * UdangClassifier - Main CSS 
+ * Berisi styling tambahan untuk aplikasi
+ */
+
+/* Styling untuk card dan containers */
+.card-hover:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+    transition: all 0.3s ease;
+}
+
+/* Custom styling untuk badges */
+.badge-pill {
+    padding: 0.5rem 1rem;
+    border-radius: 50rem;
+}
+
+/* Animation untuk loading */
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    border: 0.25rem solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: #fff;
+    animation: spin 1s ease-in-out infinite;
+}
+
+/* Custom styles untuk file upload */
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header {
+        padding: 1rem 0;
+    }
+    .card {
+        margin-bottom: 1rem;
+    }
+} 

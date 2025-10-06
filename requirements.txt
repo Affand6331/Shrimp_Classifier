@@ -1,0 +1,24 @@
+flask==3.0.0
+pillow==10.2.0
+#torch==2.5.1+cu121
+#torchvision==0.20.1+cu121
+#torchaudio==2.5.1+cu121
+torch==2.5.1  # CPU-only version, no CUDA support
+torchvision==0.20.1  # CPU-only version, no CUDA support
+torchaudio==2.5.1  # CPU-only version, no CUDA support
+numpy==1.24.3
+werkzeug==3.0.1
+matplotlib
+tqdm
+optuna
+timm==0.9.12
+ipywidgets
+scikit-learn
+jupyter
+opencv-python
+plotly
+grad-cam
+pandas
+albumentations
+
+#pip install -r requirements.txt --index-url https://download.pytorch.org/whl/cu121

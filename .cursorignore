@@ -1,0 +1,67 @@
+# Cursor ignore file - exclude files from analysis
+
+# Model files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.model
+
+# Large log files
+*.log
+*training_log*.txt
+*.txt
+
+# Images and binary files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.ico
+
+# Data files
+*.csv
+*.json
+*.xml
+*.yaml
+*.yml
+
+# Cache and temp files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+.cache
+.coverage
+.pytest_cache/
+
+# Directories to ignore
+uploads/
+models/
+Model_Deprecated/
+outputs_training_final/
+Before/
+results/
+Deprecated_Hasil/
+Output_Hasil/
+data/
+.git/
+node_modules/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large notebook files
+*Main_*.ipynb
+analysis.ipynb/
+
+# Stack dumps
+*.stackdump 
