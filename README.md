@@ -184,6 +184,21 @@ Kurangi batch size atau gunakan model dengan resolusi lebih kecil.
   - CPU: ~1-2 detik per gambar
 - **Model Size**: ~90MB per model (450MB total untuk ensemble)
 
+## Roadmap
+
+- [ ] Multi-disease classification expansion
+- [ ] Mobile application support
+- [ ] Real-time video inference
+- [ ] Model explainability (Grad-CAM)
+- [ ] Docker deployment
+- [ ] Cloud API deployment
+
+## Impact
+
+Shrimp farming is a critical part of global aquaculture production.
+Early disease detection can help reduce economic losses, improve
+farm productivity, and support sustainable aquaculture practices.
+
 ## Lisensi
 
 MIT License
